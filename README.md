@@ -20,13 +20,12 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week9|구현|[프로그래머스 - [1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|Lv2|
-|Week9|구현|[프로그래머스 - 최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)|Lv3|
-|Week9|구현|[프로그래머스 -  택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)|Lv2|
-|Week9|탐색|[프로그래머스 - 미로탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|Lv2|
-|Week9|SQL|[프로그래머스 - 연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284528)|Lv4|
-|Week9|SQL|[프로그래머스 - 조건에 맞는 사원 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284527)|Lv3|
-|Week9|SQL|[프로그래머스 - 부서별 평균 연봉 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284529)|Lv3|
+|Week10|완전탐색|[프로그래머스 - 피로도](https://school.programmers.co.kr/learn/courses/30/parts/12230)|Lv2|
+|Week10|BFS/DFS|[프로그래머스 - 퍼즐조각채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)|Lv3|
+|Week10|DP|[프로그래머스 -  N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)|Lv3|
+|Week10|DP|[프로그래머스 - 등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)|Lv3|
+|Week10|SQL|[프로그래머스 - FrontEnd 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276035)|Lv4|
+|Week10|SQL|[프로그래머스 - 특정 조건을 만족하는 물고기별 수와 최대 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298519)|Lv3|
 <br/>
 
 ## 📊 진행 상황
@@ -47,9 +46,9 @@
 | week_04 | 05.22 ~ 05.28 | 🔺    |  ✅  | ✅   | 
 | week_05 | 05.29 ~ 06.04 |  ✅    |   ✅ | ✅   | 
 | week_06 | 06.11 ~ 06.17 |  ✅     |  ✅  | ✅   | 
-| week_07 | 06.18 ~ 06.25 |       |    |  ✅  | 
-| week_08 | 06.26 ~ 07.02 |       |    |    | 
-
+| week_07 | 06.18 ~ 06.25 |    ❌    |    |  ✅  | 
+| week_08 | 06.26 ~ 07.02 |    ❌    |    |    | 
+| week_09 | 07.03 ~ 07.09 |  🔺     |   |   | 
 <br/>
 
 ## 스터디 룰
@@ -69,6 +68,13 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week9|구현|[프로그래머스 - [1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|Lv2|
+|Week9|구현|[프로그래머스 - 최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)|Lv3|
+|Week9|구현|[프로그래머스 -  택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)|Lv2|
+|Week9|탐색|[프로그래머스 - 미로탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|Lv2|
+|Week9|SQL|[프로그래머스 - 연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284528)|Lv4|
+|Week9|SQL|[프로그래머스 - 조건에 맞는 사원 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284527)|Lv3|
+|Week9|SQL|[프로그래머스 - 부서별 평균 연봉 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284529)|Lv3|
 |Week8|투포인터|[백준 - 부분합 ](https://www.acmicpc.net/problem/1806)|골4|
 |Week8|다익스트라|[백준 - 최소비용 구하기!](https://www.acmicpc.net/problem/1916)|골5|
 |Week8|DP|[프로그래머스 - 사칙연산 ](https://school.programmers.co.kr/learn/courses/30/lessons/1843)|Lv4|
